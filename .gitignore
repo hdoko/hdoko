@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# examples files
+/data
+/*/**/serviceAccountKey.json
+
+# vscode config
+.vscode/settings.json
